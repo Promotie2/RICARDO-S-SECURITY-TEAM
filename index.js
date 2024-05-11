@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["LISTENING TO DISCORD DEVS","LOOKS AT 24/7 UPTIME"];
+const statusMessages = ["LUISTERT NAAR RICARDO'S SECUIRTY TEAM","BEKIJKT 24/7 SPARKSTAD"];
 
 
 let currentIndex = 0;
